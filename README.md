@@ -7,7 +7,7 @@ A GenAI-powered chatbot that combines LLM inference (Mistral-7B) with technical 
 - Find alternative parts based on technical specifications
 - View detailed comparisons of parts
 
-[![Demo GIF](demo.gif)](https://drive.google.com/file/d/128LQeDj_GK95Oig3s2ou1MINGYuJLwi9/view?usp=share_link)
+[![Demo GIF](/Demo.gif)](https://drive.google.com/file/d/128LQeDj_GK95Oig3s2ou1MINGYuJLwi9/view?usp=share_link)
 
 ![Screenshot](/Technical%20Parts%20Assitant.png)
 
